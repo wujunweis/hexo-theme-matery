@@ -273,7 +273,7 @@ postCalendar: true
 gitalk:
   enable: true
   owner: wujunweis
-  repo: wjw-blob
+  repo: wjw-blog.github.io
   oauth:
     clientId: 5b31d22e2d617447fbed
     clientSecret: 7c18adc274bcab05c1609d6ac8cb535b57b51317
