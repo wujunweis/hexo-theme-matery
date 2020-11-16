@@ -1947,6 +1947,15 @@ footer .copy-right {
         float: left;
         width: 50%;
     }
+    .logo-span{
+        font-size: 1.6rem !important;
+    }
+    .cover-social-link{
+        top: 9rem;
+    }
+    .post-info{
+        font-size: .9rem;
+    }
 }
 
 @media screen and (min-width: 768px) {
